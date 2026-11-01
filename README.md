@@ -27,23 +27,24 @@ Computer Science Engineer with **~2 years of experience as a Full Stack Develope
 - ⚙️ **DevOps:** I work with Git/GitHub/GitLab, Docker, CI/CD pipelines, Linux and AWS
 - 🌎 **Languages:** Spanish (native), English (B2+)
 
-## 💼 Experience
+## 💼 What I've built
 
-**Software Developer** · *Funeraria Jaramillo* · Feb 2025 – Present
-- Built a **Python** integration that syncs the ERP with the **HubSpot REST API** (Leads, Contacts, Deals), so data no longer has to be entered twice
-- Built a contact **deduplication engine** with tiered confidence: high-confidence matches are linked automatically, medium ones go to manual review, and only the rest create new records
-- Built a **WhatsApp OTP** customer verification flow with partial phone masking and personalized QR codes
-- Built and maintain a file storage system on **Amazon S3** (boto3) for the ERP
-- Migrated legacy data to **ERPNext** with SQL and **Pentaho Data Integration**
-- Set up Linux backup servers and helped manage **AWS** (EC2, S3)
+**ERP & CRM integrations**
+- A **Python** integration that syncs an ERP with the **HubSpot REST API** (Leads, Contacts, Deals), so data no longer has to be entered twice
+- A contact **deduplication engine** with tiered confidence: high-confidence matches are linked automatically, medium ones go to manual review, and only the rest create new records
+- Designs for **autonomous agents** that automate CRM work with **MCP** and REST APIs, including conversational flows over WhatsApp
+- A **WhatsApp OTP** customer verification flow with partial phone masking and personalized QR codes
+- Legacy data migrations to **ERPNext** with SQL and **Pentaho Data Integration**
 
-**Freelance Full Stack Developer** · Oct 2025 – Present
-- **KunexApp:** full stack mobile app (React Native, Expo, NestJS, Next.js, Docker, PostgreSQL, S3, CloudFront)
-- **BitPC:** work order tracking system with role-based access control (Next.js, Supabase, PostgreSQL)
-- Landing page for a health specialist (React 18, TypeScript, Tailwind CSS)
+**Cloud & infrastructure**
+- A file storage system on **Amazon S3** (boto3), tested against a simulated S3 environment before going to production
+- Linux backup servers and **AWS** resource management (EC2, S3)
 
-**Front-End Developer** · *LIID Lab – UTPL* · Apr 2023 – Oct 2025
-- Built **Angular** web apps that consume REST services, including **LivePlan**, a financial business-plan simulator with reactive state management and **Firebase**
+**Web & mobile apps**
+- A full stack **mobile app** with React Native, Expo, NestJS, Next.js, Docker, PostgreSQL, S3 and CloudFront
+- A **work order tracking system** with role-based access control (Next.js, Supabase, PostgreSQL)
+- A **financial business-plan simulator** in Angular with reactive state management and Firebase
+- Landing pages with React 18, TypeScript and Tailwind CSS
 
 ## 🛠️ Tech stack
 
@@ -63,12 +64,6 @@ Computer Science Engineer with **~2 years of experience as a Full Stack Develope
   <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white" alt="HubSpot" />
   <img src="https://img.shields.io/badge/Pentaho-005A9C?style=flat-square" alt="Pentaho Data Integration" />
 </p>
-
-## 🎓 Education & certifications
-
-- 🎓 **B.Sc. in Computer Science Engineering** · Universidad Técnica Particular de Loja (2021 – 2026)
-- 📜 **CCNA: Switching, Routing, and Wireless Essentials** · Cisco (2025)
-- 🏆 Participant at **Innova Fest UTPL 2025** and **Babson College 2025**
 
 ## 📊 GitHub stats
 
