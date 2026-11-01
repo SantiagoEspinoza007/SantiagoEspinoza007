@@ -1,47 +1,76 @@
-<h2 align="left">Hi 👋! My name is Santiago and I'm a Junior Developer, from Ecuador</h2>
+<div align="center">
 
-###
+# Santiago Espinoza
+
+<a href="https://github.com/SantiagoEspinoza007">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;TypeScript+%7C+Vue+%7C+Java+%7C+C%23+%7C+Python;Based+in+Ecuador+%F0%9F%87%AA%F0%9F%87%A8" alt="Full Stack Developer" />
+</a>
+
+<a href="https://www.linkedin.com/in/santiago-espinoza-velasquez11">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:esantiagoespinoza08@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 About me
+
+I'm a **Full Stack Developer** from Ecuador who enjoys building web applications end to end, from the user interface to the APIs and databases behind it.
+
+- 🔭 Building web apps with **TypeScript** and **Vue**, and back-end services with **C#** and **Java**
+- 🧪 Practicing test automation and CI with **Selenium** and **Python**
+- 🌱 Always learning new tools and best practices
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/santiago-espinoza-velasquez11) or by [email](mailto:esantiagoespinoza08@gmail.com)
+
+## 🛠️ Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,vue,react&theme=dark" alt="Front-end" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,java,python&theme=dark" alt="Back-end" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,githubactions,selenium,vscode&theme=dark" alt="Databases and tools" />
+</p>
+
+## 🚀 Featured projects
+
+| Project | Description | Tech |
+| --- | --- | --- |
+| [LivePlan](https://github.com/SantiagoEspinoza007/LivePlan) | Web application | TypeScript |
+| [coreBancario](https://github.com/SantiagoEspinoza007/coreBancario) | Core banking system | C# |
+| [portafolioWeb](https://github.com/SantiagoEspinoza007/portafolioWeb) | Personal portfolio website | TypeScript |
+| [SistemaInsignias](https://github.com/SantiagoEspinoza007/SistemaInsignias) | Badge system challenge – Academia Ascendere | Vue |
+
+## 📊 GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SantiagoEspinoza007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SantiagoEspinoza007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SantiagoEspinoza007&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=SantiagoEspinoza007&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=SantiagoEspinoza007&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=SantiagoEspinoza007&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=true" alt="Top languages" />
+  </picture>
 </div>
 
-###
+<br>
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3hmOGszcG5lNmI4dzNob3pxOTMyODFyOGpubndkamc0MWp5M2V6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif"  />
-
-###
-
-<div align="left">
-  <a href="https://discord.gg/user/.don.cheto">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:esantiagoespinoza08@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/santiago-espinoza-velasquez11">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SantiagoEspinoza007/SantiagoEspinoza007/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/SantiagoEspinoza007/SantiagoEspinoza007/output/snake.svg" alt="Snake eating my contribution graph" />
+  </picture>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SantiagoEspinoza007/SantiagoEspinoza007/output/snake.svg" alt="Snake animation" />
-
-###
+---
 
 <div align="center">
   <a href="https://open.spotify.com/user/22kmlao2bczsxdickbuc5ygii">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22kmlao2bczsxdickbuc5ygii" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22kmlao2bczsxdickbuc5ygii" alt="Spotify recently played" />
   </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=SantiagoEspinoza007&color=0e75b6&style=flat" alt="Profile views" />
 </div>
-
-###
-<div align="center">
-  <img src="https://profile-counter.glitch.me/SantiagoEspinoza007/count.svg?"  />
-</div>
-
-###
