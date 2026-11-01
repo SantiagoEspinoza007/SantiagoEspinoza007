@@ -3,7 +3,7 @@
 # Santiago Espinoza
 
 <a href="https://github.com/SantiagoEspinoza007">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;TypeScript+%7C+Vue+%7C+Java+%7C+C%23+%7C+Python;Based+in+Ecuador+%F0%9F%87%AA%F0%9F%87%A8" alt="Full Stack Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;Python+%7C+TypeScript+%7C+AI-Native+Engineering;Based+in+Loja%2C+Ecuador+%F0%9F%87%AA%F0%9F%87%A8" alt="Full Stack Developer — Python | TypeScript | AI-Native Engineering" />
 </a>
 
 <a href="https://www.linkedin.com/in/santiago-espinoza-velasquez11">
@@ -19,29 +19,56 @@
 
 ## 👨‍💻 About me
 
-I'm a **Full Stack Developer** from Ecuador who enjoys building web applications end to end, from the user interface to the APIs and databases behind it.
+Computer Science Engineer with **~2 years of experience as a Full Stack Developer**. I build ERP integrations, web and mobile apps, and cloud infrastructure, applying **clean architecture** and **SOLID** principles.
 
-- 🔭 Building web apps with **TypeScript** and **Vue**, and back-end services with **C#** and **Java**
-- 🧪 Practicing test automation and CI with **Selenium** and **Python**
-- 🌱 Always learning new tools and best practices
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/santiago-espinoza-velasquez11) or by [email](mailto:esantiagoespinoza08@gmail.com)
+- 🤖 **AI-native workflow:** I use Claude and Codex every day as coding copilots, integrated through skills and **MCP**
+- 🔗 **Integrations & automation:** I've designed autonomous agents for CRM automation with MCP and REST APIs
+- 🧪 **Quality:** I design and run technical and functional tests, with **TDD** and **Selenium**
+- ⚙️ **DevOps:** I work with Git/GitHub/GitLab, Docker, CI/CD pipelines, Linux and AWS
+- 🌎 **Languages:** Spanish (native), English (B2+)
+
+## 💼 Experience
+
+**Software Developer** · *Funeraria Jaramillo* · Feb 2025 – Present
+- Built a **Python** integration that syncs the ERP with the **HubSpot REST API** (Leads, Contacts, Deals), so data no longer has to be entered twice
+- Built a contact **deduplication engine** with tiered confidence: high-confidence matches are linked automatically, medium ones go to manual review, and only the rest create new records
+- Built a **WhatsApp OTP** customer verification flow with partial phone masking and personalized QR codes
+- Built and maintain a file storage system on **Amazon S3** (boto3) for the ERP
+- Migrated legacy data to **ERPNext** with SQL and **Pentaho Data Integration**
+- Set up Linux backup servers and helped manage **AWS** (EC2, S3)
+
+**Freelance Full Stack Developer** · Oct 2025 – Present
+- **KunexApp:** full stack mobile app (React Native, Expo, NestJS, Next.js, Docker, PostgreSQL, S3, CloudFront)
+- **BitPC:** work order tracking system with role-based access control (Next.js, Supabase, PostgreSQL)
+- Landing page for a health specialist (React 18, TypeScript, Tailwind CSS)
+
+**Front-End Developer** · *LIID Lab – UTPL* · Apr 2023 – Oct 2025
+- Built **Angular** web apps that consume REST services, including **LivePlan**, a financial business-plan simulator with reactive state management and **Firebase**
 
 ## 🛠️ Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,vue,react&theme=dark" alt="Front-end" /><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,java,python&theme=dark" alt="Back-end" /><br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,githubactions,selenium,vscode&theme=dark" alt="Databases and tools" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,angular,tailwind&theme=dark" alt="Languages and front-end" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,supabase,firebase&theme=dark" alt="Back-end and databases" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,gitlab,githubactions,selenium&theme=dark" alt="DevOps, cloud and testing" />
 </p>
 
-## 🚀 Featured projects
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logoColor=white" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/ERPNext-0089FF?style=flat-square&logo=frappe&logoColor=white" alt="ERPNext" />
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white" alt="HubSpot" />
+  <img src="https://img.shields.io/badge/Pentaho-005A9C?style=flat-square" alt="Pentaho Data Integration" />
+</p>
 
-| Project | Description | Tech |
-| --- | --- | --- |
-| [LivePlan](https://github.com/SantiagoEspinoza007/LivePlan) | Web application | TypeScript |
-| [coreBancario](https://github.com/SantiagoEspinoza007/coreBancario) | Core banking system | C# |
-| [portafolioWeb](https://github.com/SantiagoEspinoza007/portafolioWeb) | Personal portfolio website | TypeScript |
-| [SistemaInsignias](https://github.com/SantiagoEspinoza007/SistemaInsignias) | Badge system challenge – Academia Ascendere | Vue |
+## 🎓 Education & certifications
+
+- 🎓 **B.Sc. in Computer Science Engineering** · Universidad Técnica Particular de Loja (2021 – 2026)
+- 📜 **CCNA: Switching, Routing, and Wireless Essentials** · Cisco (2025)
+- 🏆 Participant at **Innova Fest UTPL 2025** and **Babson College 2025**
 
 ## 📊 GitHub stats
 
@@ -63,14 +90,6 @@ I'm a **Full Stack Developer** from Ecuador who enjoys building web applications
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SantiagoEspinoza007/SantiagoEspinoza007/output/snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/SantiagoEspinoza007/SantiagoEspinoza007/output/snake.svg" alt="Snake eating my contribution graph" />
   </picture>
-</div>
-
----
-
-<div align="center">
-  <a href="https://open.spotify.com/user/22kmlao2bczsxdickbuc5ygii">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22kmlao2bczsxdickbuc5ygii" alt="Spotify recently played" />
-  </a>
-  <br>
+  <br><br>
   <img src="https://komarev.com/ghpvc/?username=SantiagoEspinoza007&color=0e75b6&style=flat" alt="Profile views" />
 </div>
